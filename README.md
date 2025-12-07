@@ -140,6 +140,7 @@ numpy
 scikit-learn
 statsmodels
 matplotlib
+```
 
 ## Disclaimer
 
