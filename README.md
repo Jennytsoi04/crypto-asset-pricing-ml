@@ -53,7 +53,6 @@ The project follows a full research pipeline: **data → factor construction →
 │
 └── README.md
 
-```markdown
 
 ### Step 1 – Data Preparation
 1. **Market Index Data**  
