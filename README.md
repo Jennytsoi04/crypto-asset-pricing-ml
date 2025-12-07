@@ -52,7 +52,7 @@ The project follows a full research pipeline: **data → factor construction →
 │   ├── ml_dataset_final.csv
 │
 └── README.md
-
+---
 
 ### Step 1 – Data Preparation
 1. **Market Index Data**  
