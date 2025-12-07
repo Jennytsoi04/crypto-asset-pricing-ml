@@ -23,7 +23,7 @@ The project follows a full research pipeline: **data → factor construction →
 
 ## Project Structure
 
-```text
+
 .
 ├── 01_data_prep/
 │   ├── 01_get_raw_index20_data.py
